@@ -70,7 +70,16 @@ The app's functionality includes:
 ### 5. Wireframes (todo later)
 Landing Page
 :-------------------------:
-![Landing Page](/github-images/wireframes/landing.png)
+![Landing Page](/github-images/wireframes/landing-page.png)
+
+Home Page
+![Home Page](/github-images/wireframes/home-page.png)
+
+List Page
+![About Page](/github-images/wireframes/list-page.png)
+
+Ghost Town Page
+![How To Page](/github-images/wireframes/ghost-town-page.png)
 
 Sign Up Page
 ![Sign Up Page](/github-images/wireframes/sign-up.png)
@@ -78,20 +87,8 @@ Sign Up Page
 Log In Page
 ![Log InPage](/github-images/wireframes/log-in.png)
 
-Home Page
-![Home Page](/github-images/wireframes/home.png)
-
-About Page
-![About Page](/github-images/wireframes/about.png)
-
-How To Page
-![How To Page](/github-images/wireframes/how-to.png)
-
-Trigger Point Page
-![Sign Up Page](/github-images/wireframes/trigger-point.png)
-
-Past Treatments Page
-![Past Treatments Page](/github-images/wireframes/past-treatments.png)
+Account Page
+![Past Treatments Page](/github-images/wireframes/account-page.png)
 
 ## 6. Front-end Structure - React Components Map (todo later)
 * __Index.js__ (stateless)
